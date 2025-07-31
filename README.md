@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sebastián Vásquez</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 Computer Engineering Student | 🇨🇱 Chile</h3>
+<p align="right">
+  🌐 <a href="#english">English</a> | <a href="#español">Español</a> | <a href="#français">Français</a> | <a href="#português">Português</a>
+</p>
 
 ---
+
+## 🇬🇧 English
+
+<h1 id="english" align="center">Hi 👋, I'm Sebastián Vásquez</h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 Computer Engineering Student | 🇨🇱 Chile</h3>
 
 🎓 **21 y/o Computer Engineering Student** — final year  
 💡 I love building complete web solutions from backend to frontend  
 🚀 Currently improving my skills and looking to contribute to real-world projects  
-
----
 
 ### 🛠️ Tech Stack
 
@@ -33,38 +37,91 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
 ### 🌟 Featured Projects
 
-Here are some of the projects I've worked on recently:
-
-- 🔧 **[Personal Book Sales Manager](https://github.com/Sebaxis07/proyperso)**  
-  A complete e-commerce platform for pet products built with React, Node.js, Express, and MongoDB. Includes user authentication, product management, shopping cart, and admin reports
+- 🐾 **[Lucky Pet Shop](https://github.com/Sebaxis07/proyperso)**  
+  A complete pet store platform using React, Node.js, Express, and MongoDB. Includes login, product management, cart, and reports.
 
 - ☁️ **[Cloud Infrastructure Test Project](https://github.com/Sebaxis07/Prueba03Cloud)**  
-  Backend-focused project for cloud computing class, with structured API and deployment practice.
+  Backend-focused cloud deployment and API practice.
 
 - ⚛️ **[React API Integration](https://github.com/Sebaxis07/Api-React)**  
-  A React app consuming REST APIs and displaying real-time data in a clean UI.
+  Real-time data fetching with clean UI in React.
 
 ➡️ *And more on my GitHub repositories!*
 
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebaxis07&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebaxis07&layout=compact&theme=radical" height="170"/>
-</p>
+📧 **thefilex07@gmail.com**
 
 ---
 
-### 📬 Get in Touch
+## 🇪🇸 Español
 
-- 📧 Email: **thefilex07@gmail.com**  
+<h1 id="español" align="center">Hola 👋, soy Sebastián Vásquez</h1>
+<h3 align="center">💻 Desarrollador Full Stack | 🧠 Estudiante de Ingeniería Informática | 🇨🇱 Chile</h3>
+
+🎓 **21 años**, último año de Ingeniería Informática  
+💡 Me apasiona crear soluciones web completas, desde el backend hasta el frontend  
+🚀 Actualmente mejorando habilidades y buscando contribuir a proyectos reales  
+
+### 🌟 Proyectos Destacados
+
+- 🐾 **[Lucky Pet Shop](https://github.com/Sebaxis07/proyperso)**  
+  Plataforma fullstack para tienda de mascotas con React, Node.js y MongoDB. Incluye login, gestión de productos, carrito y reportes.
+
+- ☁️ **[Prueba Cloud](https://github.com/Sebaxis07/Prueba03Cloud)**  
+  Proyecto backend para prácticas en la nube.
+
+- ⚛️ **[API React](https://github.com/Sebaxis07/Api-React)**  
+  App React que consume APIs en tiempo real con una interfaz limpia.
+
+📧 **thefilex07@gmail.com**
 
 ---
 
-⭐️ *Thanks for visiting! Feel free to explore my projects and connect!*
+## 🇫🇷 Français
+
+<h1 id="français" align="center">Salut 👋, je suis Sebastián Vásquez</h1>
+<h3 align="center">💻 Développeur Full Stack | 🧠 Étudiant en ingénierie informatique | 🇨🇱 Chili</h3>
+
+🎓 **21 ans**, dernière année d'études en informatique  
+💡 Passionné par la création de solutions web complètes  
+🚀 Entrain de développer mes compétences et prêt à contribuer à des projets réels  
+
+### 🌟 Projets en vedette
+
+- 🐾 **[Lucky Pet Shop](https://github.com/Sebaxis07/proyperso)**  
+  Boutique complète pour animaux avec React, Node.js et MongoDB. Authentification, panier et administration inclus.
+
+- ☁️ **[Projet Cloud](https://github.com/Sebaxis07/Prueba03Cloud)**  
+  Projet backend axé sur les APIs et le déploiement cloud.
+
+- ⚛️ **[API React](https://github.com/Sebaxis07/Api-React)**  
+  Application React affichant des données en temps réel depuis des APIs.
+
+📧 **thefilex07@gmail.com**
+
+---
+
+## 🇧🇷 Português
+
+<h1 id="português" align="center">Olá 👋, eu sou Sebastián Vásquez</h1>
+<h3 align="center">💻 Desenvolvedor Full Stack | 🧠 Estudante de Engenharia da Computação | 🇨🇱 Chile</h3>
+
+🎓 **21 anos**, último ano de Engenharia da Computação  
+💡 Gosto de construir soluções web completas  
+🚀 Atualmente aprimorando minhas habilidades e pronto para contribuir com projetos reais  
+
+### 🌟 Projetos em Destaque
+
+- 🐾 **[Lucky Pet Shop](https://github.com/Sebaxis07/proyperso)**  
+  Plataforma de pet shop completa com React, Node.js e MongoDB. Inclui login, produtos, carrinho e relatórios.
+
+- ☁️ **[Teste de Cloud](https://github.com/Sebaxis07/Prueba03Cloud)**  
+  Projeto backend com prática em deploy e APIs.
+
+- ⚛️ **[API com React](https://github.com/Sebaxis07/Api-React)**  
+  App React com integração de dados em tempo real.
+
+📧 **thefilex07@gmail.com**
+
+---
