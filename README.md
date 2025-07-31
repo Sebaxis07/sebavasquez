@@ -40,7 +40,7 @@
 Here are some of the projects I've worked on recently:
 
 - 🔧 **[Personal Book Sales Manager](https://github.com/Sebaxis07/proyperso)**  
-  Fullstack app using React + MongoDB to manage book sales, due dates, and payment statuses.
+  A complete e-commerce platform for pet products built with React, Node.js, Express, and MongoDB. Includes user authentication, product management, shopping cart, and admin reports
 
 - ☁️ **[Cloud Infrastructure Test Project](https://github.com/Sebaxis07/Prueba03Cloud)**  
   Backend-focused project for cloud computing class, with structured API and deployment practice.
