@@ -63,7 +63,7 @@ Here are some of the projects I've worked on recently:
 
 ### 📬 Get in Touch
 
-- 📧 Email: **sebastian.tuemail@gmail.com**  
+- 📧 Email: **thefilex07@gmail.com**  
 
 ---
 
