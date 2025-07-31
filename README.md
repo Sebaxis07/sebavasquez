@@ -35,6 +35,23 @@
 
 ---
 
+### 🌟 Featured Projects
+
+Here are some of the projects I've worked on recently:
+
+- 🔧 **[Personal Book Sales Manager](https://github.com/Sebaxis07/proyperso)**  
+  Fullstack app using React + MongoDB to manage book sales, due dates, and payment statuses.
+
+- ☁️ **[Cloud Infrastructure Test Project](https://github.com/Sebaxis07/Prueba03Cloud)**  
+  Backend-focused project for cloud computing class, with structured API and deployment practice.
+
+- ⚛️ **[React API Integration](https://github.com/Sebaxis07/Api-React)**  
+  A React app consuming REST APIs and displaying real-time data in a clean UI.
+
+➡️ *And more on my GitHub repositories!*
+
+---
+
 ### 📈 GitHub Stats
 
 <p>
@@ -44,10 +61,9 @@
 
 ---
 
-### 📬 Let's Connect
+### 📬 Get in Touch
 
-- 📧 Email: **Thefilex07@gmail.com**  
-
+- 📧 Email: **sebastian.tuemail@gmail.com**  
 
 ---
 
